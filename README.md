@@ -1,4 +1,4 @@
-# go-finances
+# Go Finances
 
 <br/>
 
