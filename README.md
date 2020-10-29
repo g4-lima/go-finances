@@ -19,7 +19,7 @@
 
 ## About project
 
-Application created to mananger financial transactions. </br>
+Application created to manage financial transactions. </br>
 It lists all the transactions the user made. Each transaction displays the name, price, category and the date. </br>
 At the top of the page, it shows the total income, outcome and the balance. </br>
 </br>
